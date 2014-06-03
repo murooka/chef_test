@@ -1,0 +1,8 @@
+DEPENDENCIES
+  hello
+    path: site-cookbooks/hello
+  mysql
+
+GRAPH
+  hello (0.1.0)
+  mysql (5.2.12)
